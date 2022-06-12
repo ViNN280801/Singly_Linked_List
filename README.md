@@ -1,4 +1,4 @@
-# Singly_Linked_List
+# Singly Linked List
 
 <p>This repository contains implementation of singly linked list. </p>
 <p>We have struct 'Node' in private data members of class 'List'. This class perfroms 
